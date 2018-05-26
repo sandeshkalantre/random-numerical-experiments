@@ -10,5 +10,9 @@ May 2018
 Consider N distinguishable particles in a box. I want to see how the energy states for these particles look like.
 This experiment has been motivated from Sakurai, Modern Quantum Mechanics, Chapter 4, Problem 1
 
+## Largest Eigenvalue Eigenvector
+May 2018
+I implemented an idea for finding the largest eigenvector by repeatedly applying H on a random vector for various standard Hamiltonians. The GS also can be found in a similar manner by using H^-1 instead or via Gaussian elimination during the iteration step.
 
+This allows a nice visualization of wavefunctions of standard Hamiltonians.
 
