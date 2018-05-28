@@ -16,3 +16,11 @@ I implemented an idea for finding the largest eigenvector by repeatedly applying
 
 This allows a nice visualization of wavefunctions of standard Hamiltonians.
 
+## Eigenvalue Repeat
+May 2018
+I carried this gendaken numerical experiment, what happens if we take eigenvalues of the matrix which diagonalizes a certain matrix and keep repeating this process? The eigenvalues all lie on the unit circle after the first step.
+
+I could not see any pattern in real, imag parts or the phase of the eigenvalues.
+There is non-trivial phase distribution for each of the eigenvalues; I could find any reason for that. The only lesson here was that the eigenvalues are NOT uniformly distributed on the unit circle.
+
+An interesting question is, for what matrices does this procedure have fixed points?
