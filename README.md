@@ -24,3 +24,6 @@ I could not see any pattern in real, imag parts or the phase of the eigenvalues.
 There is non-trivial phase distribution for each of the eigenvalues; I could find any reason for that. The only lesson here was that the eigenvalues are NOT uniformly distributed on the unit circle.
 
 An interesting question is, for what matrices does this procedure have fixed points?
+
+## Josephson Junction Model
+I used the standard circuit model of Josephson Junctions and reproduced Shapiro steps.
