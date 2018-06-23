@@ -3,7 +3,7 @@ This repository is a storehouse of interesting numerical experiments in physics 
 
 ## Moire-one-dim
 March 2018
-I was investigation the tight-binding spectrum of a set of two one-dimensional lattices such that one of them is slightly displaced from the first lattice.
+I was investigating the tight-binding spectrum of a set of two one-dimensional lattices such that one of them is slightly displaced from the first lattice.
 
 ## Multi-particle-spectrum
 May 2018
@@ -26,4 +26,9 @@ There is non-trivial phase distribution for each of the eigenvalues; I could fin
 An interesting question is, for what matrices does this procedure have fixed points?
 
 ## Josephson Junction Model
+June 2018
 I used the standard circuit model of Josephson Junctions and reproduced Shapiro steps.
+
+## Pseudo Random
+June 2018
+I made a simple pseudo random number generator using the power-residue method and investigated scores with a computer-generated random distribution.
