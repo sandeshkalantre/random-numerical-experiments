@@ -1,5 +1,5 @@
 # random-numerical-experiments
-This repository is a storehouse of interesting numerical experiments in physics and beyond.
+This repository is a storehouse of interesting (some well known) numerical experiments in physics and beyond.
 
 ## Moire-one-dim
 March 2018
@@ -32,3 +32,7 @@ I used the standard circuit model of Josephson Junctions and reproduced Shapiro 
 ## Pseudo Random
 June 2018
 I made a simple pseudo random number generator using the power-residue method and investigated scores with a computer-generated random distribution.
+
+## Sampling Probability Distributions
+June 2018
+How to sample from a given probability distribution? I used the analytic method and Metropolis algorithm.
