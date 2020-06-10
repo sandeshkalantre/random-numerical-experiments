@@ -36,3 +36,7 @@ I made a simple pseudo random number generator using the power-residue method an
 ## Sampling Probability Distributions
 June 2018
 How to sample from a given probability distribution? I used the analytic method and Metropolis algorithm.
+
+## Phase and Amplitude Noise
+June 2020
+Understanding amplitude and phase noise of a single frequency signal in the frequency domain in the presence of noise.
